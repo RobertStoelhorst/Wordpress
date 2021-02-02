@@ -14,7 +14,7 @@
 
 ![MAMP website](Images/wordpress-org.png)
 
-## \* Open your applications folder, go to the MAMP folder and this is the file structure you need. You must create a new folder in the htdocs folder to hold wordpress site files. once you download WordPress open the Wordpress folder and move all of its contents into your new folder you just created in the htdocs folder
+## \* Open your applications folder, go to the MAMP folder and this is the file structure you need. You must create a new folder in the htdocs folder to hold wordpress site files. Once you download WordPress open the Wordpress folder and move all of its contents into your new folder you just created in the htdocs folder
 
 ![MAMP website](Images/applications.png)
 
@@ -60,4 +60,4 @@
 
 ![MAMP website](Images/wordpress-client-setup.png)
 
-## \* Next you will be able to loginto your WordPress dashboard and get started with your site build. It is worth noting that you should go back o MAMP and click stop in the top right corner (you will always need to do this to shut down the server) and restart your computer and restart the server for all configuration to take effect. I was unable to download any plugins on WordPress untill I had done this step
+## \* Next you will be able to login to your WordPress dashboard and get started with your site build. It is worth noting that you should go back o MAMP and click stop in the top right corner (you will always need to do this to shut down the server) and restart your computer and restart the server for all configuration to take effect. I was unable to download any plugins on WordPress untill I had done this step
