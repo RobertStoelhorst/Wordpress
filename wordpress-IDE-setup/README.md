@@ -60,4 +60,4 @@
 
 ![MAMP website](Images/wordpress-client-setup.png)
 
-## \* Next you will be able to login to your WordPress dashboard and get started with your site build. It is worth noting that you should go back o MAMP and click stop in the top right corner (you will always need to do this to shut down the server) and restart your computer and restart the server for all configuration to take effect. I was unable to download any plugins on WordPress untill I had done this step
+## \* Next you will be able to login to your WordPress dashboard and get started with your site build. It is worth noting that you should go back to MAMP and click stop in the top right corner (you will always need to do this to shut down the server) and restart your computer and restart the server for all configuration to take effect. I was unable to download any plugins on WordPress untill I had done this step
