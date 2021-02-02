@@ -1,6 +1,6 @@
 # WordPress Loacl Dvelopment Environment Setup
 
-## MAMP with Apache PHP server
+## 🔥🔥 MAMP with Apache PHP server 🔥🔥
 
 ##### Use this guide if you are looking to set up a development environment to build and test WordPress sites locally before connecting to a web host and going live. This will allow you to work on existing wordpress sites or build a completely new site without breaking an existing site, weather you are doing this for your own site or building sites for clients this may be a good alternative to setting up yours or your clients new domain and publishing live. Once you are happy with your new build it is a simple as installing WordPress with your Web Hosting and selecting the new template from your WordPress account. The setup I have done was on a MacOS
 
