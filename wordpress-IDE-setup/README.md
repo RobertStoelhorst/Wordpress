@@ -1,4 +1,4 @@
-# WordPress Loacl Dvelopment Environment Setup
+# WordPress Local Development Environment Setup
 
 ## 🔥🔥 MAMP with Apache PHP server 🔥🔥
 
